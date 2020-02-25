@@ -71,6 +71,6 @@ main {
 	font-size: 55px;
 	color: white;
 	padding: 150px;
-	background-image: linear-gradient(lime, purple, red);
+	background-image: linear-gradient(blue, purple, red);
 	border-bottom: 5px solid black;
 }
