@@ -1,0 +1,39 @@
+body{
+font-family:Helvetica;
+}
+#lewy góra{
+height:400 px;
+width: 70%;
+background-color:Snow;
+text-align: center;
+}
+#lewy dół{
+	height:400 px;
+	width: 70%;
+	background-color:Snow;
+	font-size: 150%
+	text-align: center;
+}
+#prawy góra{
+	height:150 px;
+	width: 30%;
+	background-color:SteelBlue;
+	color: white;
+	text-align: center;
+}
+#prawy środek{
+	height:350 px;
+	width: 30%;
+	background-color:SteelBlue;
+	color: white;
+}
+#prawy dół{
+	height:300 px;
+	width: 30%;
+	background-color:Snow;
+	text-align:center
+	}
+footer{
+	background-color:SteelBlue;
+	color:white;
+}
